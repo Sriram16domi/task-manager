@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A clean, beginner-friendly full-stack Task Manager built with React, Node.js, Express, Axios, and simple CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
